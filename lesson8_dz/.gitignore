@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#idea
+# Default ignored files
+/workspace.xml
 .idea/
